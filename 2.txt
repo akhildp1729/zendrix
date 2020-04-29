@@ -1,2 +1,3 @@
 New feature is released
-Feature has been tested 
+Feature has been tested
+Feature is ready for the release
